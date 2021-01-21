@@ -1,4 +1,6 @@
 function sayHello(){
 
-	return "Hello"
+	alert("Hello,World");
+	return "Hello";
+
 }
